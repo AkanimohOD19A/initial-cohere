@@ -1,0 +1,2 @@
+cohere==4.11.2
+streamlit==1.21.0
